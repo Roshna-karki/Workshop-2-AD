@@ -1,3 +1,3 @@
 ﻿string userName = "Roshna";
-int luckyNumber = 7;
+int luckyNumber = 5;
 Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
